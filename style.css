@@ -65,4 +65,5 @@ html {
 textarea{
     height: 88vh;
     resize: none;
+    padding: .5rem;
 }
